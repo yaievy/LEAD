@@ -5,16 +5,16 @@ image: assets/images/profiles/Eva-Yayi-Upele/Eva-Yayi-Upele.jpg
 country: South Sudan
 region: Juba
 hub: GoGirlsICT
-languages: English - very good,  Luganda - very good
+languages: English - very good
 mail: evayayi@gmail.com
-phone: "+211922888614"
-whatsapp: "+211922888614"
+phone:
+whatsapp: 
 website: 
 telegram: Yaievy
 github: 
 linkedin: 
 twitter: evayayi
-facebook: Yaievy
+facebook: evayayi
 instagram: evayayi
 mastodon: 
 wikifab:
